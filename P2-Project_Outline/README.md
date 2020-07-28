@@ -20,6 +20,8 @@ _Sharing my data_ As a user, I would like to send a copy of the tables (reading 
 
 _Algorithms_  I would like to track the percentage of pages read not only to track progress, but also as a point of moving a book from the reading table to the read table.  I would like to track average reading times and average reading speed overall.  (Again, with more development, perhaps these averages per each book)
 
+_CRUD assessment_ Create users.  Read tables of books and reading data.  Update books and reading lists.  Delete??  Not sure...  maybe an edit/remove feature?  
+
 ### Technologies
 C#
 ASP.NET
