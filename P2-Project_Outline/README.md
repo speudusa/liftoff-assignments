@@ -23,6 +23,7 @@ _Algorithms_  I would like to track the percentage of pages read not only to tra
 ### Technologies
 C#
 ASP.NET
+MySQL
 Bootstrap/CSS/HTML
 Authorization/Authentication (Ch 21)
 Look into a timer function/feature
@@ -31,6 +32,7 @@ Time management (pomodoro timers, assessing urgency for tasks, and making the mo
 
 ### What I'll Have to Learn
 I will need to review all technologies above
+The Relationships between my tables
 I will need to learn how to keep it simple, streamline, and remember the minimum standards (I get very lost in details)
 
 ### Project Tracker
