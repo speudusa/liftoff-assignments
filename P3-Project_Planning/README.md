@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+![WireFrame1]("C:\Users\court\codecamp-2020\WireFrame\WFpage1.jpg")
+![WireFrame2]("C:\Users\court\codecamp-2020\WireFrame\WFpage2.jpg")
+![WireFrame1]("C:\Users\court\codecamp-2020\WireFrame\WFpage3.jpg")
+![WireFrame2]("C:\Users\court\codecamp-2020\WireFrame\WFpage4.jpg")
+![WireFrame2]("C:\Users\court\codecamp-2020\WireFrame\WFpage5.jpg")
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/1qBvpkyF/launchcode-final-project
+_WireFrame images are attached to WireFrame Card_
+_User Stories are in the outline_
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/speudusa/liftoff-assignments
