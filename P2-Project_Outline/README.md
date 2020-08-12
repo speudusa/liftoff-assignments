@@ -1,13 +1,5 @@
 # Project Outline for "One Page More"
-your easy to email reading app
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
-# Project Outline for "One Page More"
-your easy to email reading app
+An app to help create reading habits in young readers
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
