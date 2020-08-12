@@ -12,6 +12,8 @@ For this assignment, you'll create some initial plans for your project.
 
 Both images have also been uploaded to my GitHub repo. See OverviewPart1 & OverviewPart2 in repo if images not working. 
 
+I am still working on my data structures and relationships.  I will upload those soon.
+
 ### Project Tracker
 
 https://trello.com/b/1qBvpkyF/launchcode-final-project
