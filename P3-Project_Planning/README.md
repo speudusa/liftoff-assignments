@@ -7,17 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-_not sure how to attach images.  sorry.  However, the same images are on each card in my Trello List "Epics by Page"_
-![WireFrame1]("C:\Users\court\codecamp-2020\WireFrame\WFpage1.jpg")
-![WireFrame2]("C:\Users\court\codecamp-2020\WireFrame\WFpage2.jpg")
-![WireFrame1]("C:\Users\court\codecamp-2020\WireFrame\WFpage3.jpg")
-![WireFrame2]("C:\Users\court\codecamp-2020\WireFrame\WFpage4.jpg")
-![WireFrame2]("C:\Users\court\codecamp-2020\WireFrame\WFpage5.jpg")
+![Overview Part 1](https://raw.githubusercontent.com/speudusa/liftoff-assignments/master/OverviewPart1.jpg)
+![Overview Part 2](https://raw.githubusercontent.com/speudusa/liftoff-assignments/master/OverviewPart2.jpg)
+
+Both images have also been uploaded to my GitHub repo. See OverviewPart1 & OverviewPart2 in repo if images not working. 
 
 ### Project Tracker
 
 https://trello.com/b/1qBvpkyF/launchcode-final-project
-_again, images for my wireframes on on the "Epics by Page" list_
+
 
 ### Project Repo Link
 
