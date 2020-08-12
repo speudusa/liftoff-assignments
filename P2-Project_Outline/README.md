@@ -6,31 +6,64 @@ your easy to email reading app
 
 ## Submission Instructions
 
+# Project Outline for "One Page More"
+your easy to email reading app
+
+## Assignment Description
+[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+
+## Submission Instructions
+
 ### Overview
-As a parent of 2 elementary schoolers, tracking our reading time is a big deal in the early grades.  Many times a worksheet is sent home to be filled out and returned the following Monday.  Once those workseets are turned in, I never see them again.  This prevents me from remembering what we read, or even allowing me to see what my oldest (and very independent reader) enjoys because she writes it down over and over.  The purpose of this app is to track the books into tables that can easily be emailed to teachers and easily referenced by me to track our reading levels, speed, and even favorites.  
+When it comes to elementary school, reading is a large part of the curriculum.  With my own children, I have found that making reading part of our day has helped with comprehension.  I would love to say that this was an easy addition to our day, but reading time can easily be pushed aside for tasks that seem more important such as accompanying me to the grocery store, cleaning a bedroom, or even rushing through bedtime.  Building this habit is just as much my job as theirs.  
+
+The purpose of this website is to create a record of reading that can be used within the family or shared with teachers.  While a book API could easily be imported, at this stage I want as few distractions for my kids as possible.  Book information is collected from user input.  Reading information is collected via background date and timer collections.  The information is then displayed in tables and a calendar.  The reason a variety of data is being collected is to meet the various reading requirements of any teacher in any school year.  In kindergarten, book titles were requested, in second grade times and page numbers were requested.  This will collect both and be able to share data with a teacher.  
 
 ### Features
-_User Login_ As a user, I want to be able to track my own books.  
+_User Login_ 
+As a user, I want to be able to track my own books, reading time, and reading habits.  
 
-_User Dashboard_ As a user, I want a page where I can easily see the books I've read (title, author, pages) and the books I am currently reading (same as read).  I also want to keep track of my reading average.  (As I develop this more, I would like to have an early reader option, where I could track level of reading independence progress).  On the dashboard I would like to be able to start my reading session.
+_User Registartion_  
+As a user, I want to be able to create an account for my child using my email.  
+I want to create a unique username and password for each child.  
 
-_Reading timer_  As a user, I would like a timer to start my reading session that would collect page numbers and book information, and a textbox for notes.  
+_User Dashboard_ :
+As a user, I want to easily begin reading without having to push too many button.
+As a user, I want to be asked what I am reading and have a chance to select from my currently reading list or add a new book.
+As a user, I want to be able to enter the page number from which I’m starting at.  
+As a user, when I select start reading, I want to return to the dashboard so that I have easy access to the “Finished Reading” button.  
+As a user, when I select START I want to start a timer to track my reading.  
 
-_Sharing my data_ As a user, I would like to send a copy of the tables (reading and read) to my teacher at the end of the week so they could see my progress.
+_Reading timer_  
+As a user, I would like a timer to start running when I hit the START READING button and stop when I select the FINISHED READING button.
+I want this timer’s total to be uploaded to both the reading table and the calendar
 
-_Algorithms_  I would like to track the percentage of pages read not only to track progress, but also as a point of moving a book from the reading table to the read table.  I would like to track average reading times and average reading speed overall.  (Again, with more development, perhaps these averages per each book)
+_Sharing my data_ 
+As a user, I would like to send a copy of the tables to my parent so they can forward them to my teacher.  (This is roundabout, but this is designed for minors and I don’t want to have too many safety/privacy issues right now)
 
-_CRUD assessment_ Create users.  Read tables of books and reading data.  Update books and reading lists.  Delete??  Not sure...  maybe an edit/remove feature?  
+_Algorithms_ 
+Update the reading tables when all the pages are read
+Update tables with reading times, totalling with each session
+
+_Tables_ 
+As a user, I would like to have a table built to manage my books.  
+One table for books I am CURRENTLY reading.  The titles in this table will be used to fill a dropdown menu when starting a reading session.
+One table for COMPLETED reading.  
+
+_Calendar_
+As a user, I want to have a calendar representation of the days I have read.  
+I want the calendar to change colors on days I read.  ***
+I want the title of the book to appear on days I’ve completed the book  ***
+
+_Nav Bar_
+As a user (or parent of a user) I want to have an easy way to see my tables and calendar, add  book without hitting the timer, and share.
 
 ### Technologies
-C#
-ASP.NET
-MySQL
-Bootstrap/CSS/HTML
-Authorization/Authentication (Ch 21)
-Look into a timer function/feature
-Time management (pomodoro timers, assessing urgency for tasks, and making the most of my time)
 
+I plan to build this using ASP.NET, C#, and bootstrap.
+I want to incorporate user accounts and authorization
+I want to utilize timestamps, timers
+I want to use a navigation bar
 
 ### What I'll Have to Learn
 I will need to review all technologies above
